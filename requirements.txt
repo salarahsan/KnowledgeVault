@@ -1,0 +1,9 @@
+streamlit
+langchain-groq
+langchain-huggingface
+langchain-community
+faiss-cpu
+python-dotenv
+pandas
+openpyxl
+torchvision
